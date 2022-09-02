@@ -1,2 +1,2 @@
 //initial
-//INITIAL 1
+//insitl
